@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<article comment="Imported into a project" morpho="automatic:15/01/13 13:36" source="/home/malcom/Dropbox/bakary/morfo/06305_morfologic_49769320_kakatuamaracaibo.txt_tagged">
+  <sentence>
+    <c lem="si" name="c" pos="cs" postype="subordinating" wd="Si"/>
+    <p lem="él" name="p" person="3" pos="p0300000" wd="se"/>
+    <v lem="ocupar" mood="indicative" name="v" num="p" person="3" pos="vmif3p0" postype="main" tense="future" wd="ocuparan"/>
+    <s complex="no" lem="de" name="s" pos="sps00" postype="preposition" wd="de"/>
+    <v lem="poner" mood="infinitive" name="v" pos="vmn0000" postype="main" wd="ponerle"/>
+    <d gen="m" lem="uno" name="d" num="s" pos="di0ms0" postype="indefinite" wd="un"/>
+    <d gen="m" lem="poco" name="d" num="s" pos="di0ms0" postype="indefinite" wd="poco"/>
+    <r lem="más" name="r" pos="rg" wd="mas"/>
+    <s complex="no" lem="de" name="s" pos="sps00" postype="preposition" wd="de"/>
+    <n gen="f" lem="atención" name="n" num="s" pos="ncfs000" postype="common" wd="atencion"/>
+    <s complex="yes" gen="m" lem="al" name="s" num="s" pos="spcms" postype="preposition" wd="al"/>
+    <n gen="m" lem="mantenimiento" name="n" num="s" pos="ncms000" postype="common" wd="mantenimiento"/>
+    <f lem="," name="f" pos="fc" punct="comma" wd=","/>
+    <v lem="ser" mood="indicative" name="v" num="s" person="3" pos="vmic3s0" postype="main" tense="conditional" wd="seria"/>
+    <d gen="m" lem="uno" name="d" num="s" pos="di0ms0" postype="indefinite" wd="un"/>
+    <n gen="m" lem="lugar" name="n" num="s" pos="ncms000" postype="common" wd="lugar"/>
+    <a gen="c" lem="superespecial" name="a" num="s" pos="aq0cs0" postype="qualificative" wd="super_especial"/>
+    <f lem="." name="f" pos="fp" punct="period" wd="."/>
+    <d gen="f" lem="el" name="d" num="p" pos="da0fp0" postype="article" wd="Las"/>
+    <n gen="f" lem="habitación" name="n" num="p" pos="ncfp000" postype="common" wd="habitaciones"/>
+    <v lem="estar" mood="indicative" name="v" num="p" person="3" pos="vmip3p0" postype="main" tense="present" wd="estan"/>
+    <a gen="f" lem="descuidado" name="a" num="p" pos="aq0fpp" posfunction="participle" postype="qualificative" wd="descuidadas"/>
+    <f lem="." name="f" pos="fp" punct="period" wd="."/>
+    <c lem="sin_embargo" name="c" pos="cc" postype="coordinating" wd="Sin_embargo"/>
+    <f lem="," name="f" pos="fc" punct="comma" wd=","/>
+    <d gen="f" lem="el" name="d" num="p" pos="da0fp0" postype="article" wd="las"/>
+    <n gen="f" lem="comida" name="n" num="p" pos="ncfp000" postype="common" wd="comidas"/>
+    <s complex="no" lem="en" name="s" pos="sps00" postype="preposition" wd="en"/>
+    <d gen="m" lem="todo" name="d" num="p" pos="di0mp0" postype="indefinite" wd="todos"/>
+    <d gen="m" lem="el" name="d" num="p" pos="da0mp0" postype="article" wd="los"/>
+    <n gen="m" lem="restaurante" name="n" num="p" pos="ncmp000" postype="common" wd="restaurantes"/>
+    <v lem="ser" mood="indicative" name="v" num="p" person="3" pos="vsip3p0" postype="semiauxiliary" tense="present" wd="son"/>
+    <r lem="muy" name="r" pos="rg" wd="muy"/>
+    <a gen="f" lem="variado" name="a" num="p" pos="aq0fpp" posfunction="participle" postype="qualificative" wd="varidadas"/>
+    <c lem="y" name="c" pos="cc" postype="coordinating" wd="y"/>
+    <s complex="no" lem="de" name="s" pos="sps00" postype="preposition" wd="de"/>
+    <a gen="f" lem="bueno" name="a" num="s" pos="aq0fs0" postype="qualificative" wd="buena"/>
+    <n gen="f" lem="calidad" name="n" num="s" pos="ncfs000" postype="common" wd="calidad"/>
+    <f lem="." name="f" pos="fp" punct="period" wd="."/>
+    <d gen="f" lem="el" name="d" num="s" pos="da0fs0" postype="article" wd="La"/>
+    <n gen="f" lem="atención" name="n" num="s" pos="ncfs000" postype="common" wd="atencion"/>
+    <v lem="ser" mood="indicative" name="v" num="s" person="3" pos="vsip3s0" postype="semiauxiliary" tense="present" wd="es"/>
+    <r lem="bastante" name="r" pos="rg" wd="bastante"/>
+    <a gen="f" lem="bueno" name="a" num="s" pos="aq0fs0" postype="qualificative" wd="buena"/>
+    <f lem="." name="f" pos="fp" punct="period" wd="."/>
+    <d gen="m" lem="el" name="d" num="p" pos="da0mp0" postype="article" wd="Los"/>
+    <n gen="m" lem="comentario" name="n" num="p" pos="ncmp000" postype="common" wd="comentarios"/>
+    <p gen="c" lem="que" name="p" num="n" pos="pr0cn000" postype="relative" wd="que"/>
+    <v lem="haber" mood="indicative" name="v" num="s" person="3" pos="vaii3s0" postype="auxiliary" tense="imperfect" wd="habia"/>
+    <v gen="m" lem="leer" mood="pastparticiple" name="v" num="s" pos="vmp00sm" postype="main" wd="leido"/>
+    <s complex="no" lem="sobre" name="s" pos="sps00" postype="preposition" wd="sobre"/>
+    <d gen="f" lem="el" name="d" num="s" pos="da0fs0" postype="article" wd="la"/>
+    <a gen="f" lem="malo" name="a" num="s" pos="aq0fs0" postype="qualificative" wd="mala"/>
+    <n gen="f" lem="atención" name="n" num="s" pos="ncfs000" postype="common" wd="atencion"/>
+    <s complex="no" lem="de" name="s" pos="sps00" postype="preposition" wd="de"/>
+    <d gen="f" lem="el" name="d" num="s" pos="da0fs0" postype="article" wd="la"/>
+    <n gen="f" lem="recepción" name="n" num="s" pos="ncfs000" postype="common" wd="recepcion"/>
+    <f lem="," name="f" pos="fc" punct="comma" wd=","/>
+    <s complex="no" lem="en" name="s" pos="sps00" postype="preposition" wd="en"/>
+    <d gen="m" lem="nuestro" name="d" num="s" person="1" pos="dp1msp" possessornum="p" postype="possessive" wd="nuestro"/>
+    <n gen="m" lem="caso" name="n" num="s" pos="ncms000" postype="common" wd="caso"/>
+    <r lem="no" name="r" pos="rn" postype="negative" wd="no"/>
+    <v lem="ser" mood="indicative" name="v" num="s" person="3" pos="vsis3s0" postype="semiauxiliary" tense="past" wd="fue"/>
+    <r lem="así" name="r" pos="rg" wd="asi"/>
+    <f lem="." name="f" pos="fp" punct="period" wd="."/>
+    <v lem="ser" mood="indicative" name="v" num="p" person="3" pos="vsis3p0" postype="semiauxiliary" tense="past" wd="Fueron"/>
+    <a gen="c" lem="superamable" name="a" num="p" pos="aq0cp0" postype="qualificative" wd="super_amables"/>
+    <c lem="y" name="c" pos="cc" postype="coordinating" wd="y"/>
+    <r lem="muy" name="r" pos="rg" wd="muy"/>
+    <a gen="m" lem="simpático" name="a" num="p" pos="aq0mp0" postype="qualificative" wd="simpaticos"/>
+    <f lem="." name="f" pos="fp" punct="period" wd="."/>
+    <v lem="recomendar" mood="indicative" name="v" num="s" person="1" pos="vmic1s0" postype="main" tense="conditional" wd="Recomendaria"/>
+    <a gen="c" lem="mejor" name="a" num="s" pos="aq0cs0" postype="qualificative" wd="mejor"/>
+    <n gen="m" lem="mantenimiento" name="n" num="s" pos="ncms000" postype="common" wd="mantenimiento"/>
+    <s complex="no" lem="de" name="s" pos="sps00" postype="preposition" wd="de"/>
+    <d gen="f" lem="el" name="d" num="p" pos="da0fp0" postype="article" wd="las"/>
+    <n gen="f" lem="instalación" name="n" num="p" pos="ncfp000" postype="common" wd="instalaciones"/>
+    <f lem="," name="f" pos="fc" punct="comma" wd=","/>
+    <r lem="sobre_todo" name="r" pos="rg" wd="sobretodo"/>
+    <s complex="no" lem="en" name="s" pos="sps00" postype="preposition" wd="en"/>
+    <n gen="f" lem="habitación" name="n" num="p" pos="ncfp000" postype="common" wd="habitaciones"/>
+    <f lem="(" name="f" pos="fpa" punct="bracket" punctenclose="open" wd="("/>
+    <n gen="m" lem="aire_acondicionado" name="n" num="s" pos="ncms000" postype="common" wd="aire_acondicionado"/>
+    <f lem="," name="f" pos="fc" punct="comma" wd=","/>
+    <n gen="m" lem="deterioro" name="n" num="s" pos="ncms000" postype="common" wd="deterioro"/>
+    <s complex="no" lem="en" name="s" pos="sps00" postype="preposition" wd="en"/>
+    <d gen="m" lem="el" name="d" num="p" pos="da0mp0" postype="article" wd="los"/>
+    <n gen="m" lem="baño" name="n" num="p" pos="ncmp000" postype="common" wd="baños"/>
+    <f lem="," name="f" pos="fc" punct="comma" wd=","/>
+    <n gen="f" lem="puerta" name="n" num="p" pos="ncfp000" postype="common" wd="puertas"/>
+    <f lem="." name="f" pos="fp" punct="period" wd="."/>
+  </sentence>
+</article>

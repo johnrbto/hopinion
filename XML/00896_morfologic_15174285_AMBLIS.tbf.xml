@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<article comment="Imported into a project" morpho="automatic:15/01/13 13:36" source="/home/malcom/Dropbox/bakary/morfo/00896_morfologic_15174285_AMBLIS.txt_tagged">
+  <sentence>
+    <n gen="f" lem="fecha" name="n" num="s" pos="ncfs000" postype="common" wd="Fecha"/>
+    <f lem=":" name="f" pos="fd" punct="colon" wd=":"/>
+    <w lem="[??:29/03/08:??.??]" name="w" pos="w" wd="29_de_marzo_2008"/>
+    <f lem="," name="f" pos="fc" punct="comma" wd=","/>
+    <n lem="caracas" name="n" pos="np00000" postype="proper" wd="CARACAS"/>
+    <f lem="." name="f" pos="fp" punct="period" wd="."/>
+    <n lem="venezuela" name="n" pos="np00000" postype="proper" wd="VENEZUELA"/>
+    <v lem="dormir" mood="indicative" name="v" num="s" person="1" pos="vmis1s0" postype="main" tense="past" wd="Dormí"/>
+    <r lem="allí" name="r" pos="rg" wd="allí"/>
+    <d gen="c" lem="dos" name="d" num="p" pos="dn0cp0" postype="numeral" wd="dos"/>
+    <n gen="f" lem="noche" name="n" num="p" pos="ncfp000" postype="common" wd="noches"/>
+    <d gen="f" lem="el" name="d" num="s" pos="da0fs0" postype="article" wd="la"/>
+    <n gen="f" lem="atención" name="n" num="s" pos="ncfs000" postype="common" wd="atención"/>
+    <v lem="ser" mood="indicative" name="v" num="s" person="3" pos="vsip3s0" postype="semiauxiliary" tense="present" wd="es"/>
+    <r lem="muy" name="r" pos="rg" wd="muy"/>
+    <a gen="f" lem="bueno" name="a" num="s" pos="aq0fs0" postype="qualificative" wd="buena"/>
+    <f lem="," name="f" pos="fc" punct="comma" wd=","/>
+    <v lem="estar" mood="indicative" name="v" num="s" person="3" pos="vmip3s0" postype="main" tense="present" wd="está"/>
+    <d gen="m" lem="todo" name="d" num="s" pos="di0ms0" postype="indefinite" wd="todo"/>
+    <r lem="cerca" name="r" pos="rg" wd="cerca"/>
+    <s complex="no" lem="en" name="s" pos="sps00" postype="preposition" wd="en"/>
+    <d gen="f" lem="el" name="d" num="s" pos="da0fs0" postype="article" wd="la"/>
+    <n lem="plaza_venezuela" name="n" pos="np00000" postype="proper" wd="Plaza_Venezuela"/>
+    <f lem="." name="f" pos="fp" punct="period" wd="."/>
+    <a gen="f" lem="amplio" name="a" num="p" pos="aq0fp0" postype="qualificative" wd="Amplias"/>
+    <n gen="f" lem="habitación" name="n" num="p" pos="ncfp000" postype="common" wd="habitaciones"/>
+    <f lem="." name="f" pos="fp" punct="period" wd="."/>
+    <p case="accusative" gen="m" lem="él" name="p" num="s" person="3" pos="pp3msa00" postype="personal" wd="Lo"/>
+    <v lem="recomendar" mood="indicative" name="v" num="s" person="3" pos="vmip3s0" postype="main" tense="present" wd="recomienda"/>
+    <n lem="amabelis_caraballo" name="n" pos="np00000" postype="proper" wd="Amabelis_Caraballo"/>
+  </sentence>
+</article>

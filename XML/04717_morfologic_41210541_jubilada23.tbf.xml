@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<article comment="Imported into a project" morpho="automatic:15/01/13 13:36" source="/home/malcom/Dropbox/bakary/morfo/04717_morfologic_41210541_jubilada23.txt_tagged">
+  <sentence>
+    <d gen="f" lem="poco" name="d" num="p" pos="di0fp0" postype="indefinite" wd="pocas"/>
+    <n gen="f" lem="actividad" name="n" num="p" pos="ncfp000" postype="common" wd="actividades"/>
+    <a gen="f" lem="nocturno" name="a" num="p" pos="aq0fp0" postype="qualificative" wd="nocturnas"/>
+    <c lem="y" name="c" pos="cc" postype="coordinating" wd="y"/>
+    <s complex="no" lem="aparte_de" name="s" pos="sps00" postype="preposition" wd="aparte_de"/>
+    <d gen="f" lem="el" name="d" num="s" pos="da0fs0" postype="article" wd="la"/>
+    <n gen="f" lem="playa" name="n" num="s" pos="ncfs000" postype="common" wd="playa"/>
+    <r lem="tampoco" name="r" pos="rg" wd="tampoco"/>
+    <v lem="haber" mood="indicative" name="v" num="s" person="3" pos="vaip3s0" postype="auxiliary" tense="present" wd="hay"/>
+    <r lem="mucho" name="r" pos="rg" wd="mucho"/>
+    <c lem="que" name="c" pos="cs" postype="subordinating" wd="que"/>
+    <v lem="hacer" mood="infinitive" name="v" pos="vmn0000" postype="main" wd="hacer"/>
+    <f lem="." name="f" pos="fp" punct="period" wd="."/>
+    <r lem="no" name="r" pos="rn" postype="negative" wd="No"/>
+    <v lem="haber" mood="indicative" name="v" num="s" person="3" pos="vaip3s0" postype="auxiliary" tense="present" wd="hay"/>
+    <n gen="m" lem="paseo" name="n" num="p" pos="ncmp000" postype="common" wd="paseos"/>
+    <a gen="m" lem="organizado" name="a" num="p" pos="aq0mpp" posfunction="participle" postype="qualificative" wd="organizados"/>
+    <s complex="no" lem="para" name="s" pos="sps00" postype="preposition" wd="para"/>
+    <d gen="m" lem="otro" name="d" num="p" pos="di0mp0" postype="indefinite" wd="otros"/>
+    <n gen="m" lem="sitio" name="n" num="p" pos="ncmp000" postype="common" wd="sitios"/>
+    <c lem="como" name="c" pos="cs" postype="subordinating" wd="como"/>
+    <n lem="cancún" name="n" pos="np00000" postype="proper" wd="Cancun"/>
+    <f lem="," name="f" pos="fc" punct="comma" wd=","/>
+    <n lem="playa_del_carmen" name="n" pos="np00000" postype="proper" wd="Playa_el_carmen"/>
+    <f lem="." name="f" pos="fp" punct="period" wd="."/>
+    <n lem="xcaret" name="n" pos="np00000" postype="proper" wd="XCaret"/>
+  </sentence>
+</article>
